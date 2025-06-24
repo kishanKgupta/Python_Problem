@@ -1,0 +1,4 @@
+install anaconda
+install vs code
+install conda 
+install pip install ipykernel
